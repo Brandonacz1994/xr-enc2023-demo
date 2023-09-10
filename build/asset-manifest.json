@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4163626.chunk.css",
+    "main.js": "/static/js/main.5bd1bf84.chunk.js",
+    "main.js.map": "/static/js/main.5bd1bf84.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.45bd40dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.45bd40dc.js.map",
+    "static/js/2.4313794b.chunk.js": "/static/js/2.4313794b.chunk.js",
+    "static/js/2.4313794b.chunk.js.map": "/static/js/2.4313794b.chunk.js.map",
+    "static/js/3.dadb497a.chunk.js": "/static/js/3.dadb497a.chunk.js",
+    "static/js/3.dadb497a.chunk.js.map": "/static/js/3.dadb497a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a4163626.chunk.css.map": "/static/css/main.a4163626.chunk.css.map",
+    "static/js/2.4313794b.chunk.js.LICENSE.txt": "/static/js/2.4313794b.chunk.js.LICENSE.txt",
+    "static/media/Idle-bus.9d5a7e67.wav": "/static/media/Idle-bus.9d5a7e67.wav",
+    "static/media/SheenChair.cccef135.glb": "/static/media/SheenChair.cccef135.glb",
+    "static/media/SonyVideoDemo.33a238ae.mp4": "/static/media/SonyVideoDemo.33a238ae.mp4",
+    "static/media/bus.6cd90756.gltf": "/static/media/bus.6cd90756.gltf",
+    "static/media/door-bus.eaf06fe9.wav": "/static/media/door-bus.eaf06fe9.wav",
+    "static/media/rickroll.c7c91519.mp4": "/static/media/rickroll.c7c91519.mp4",
+    "static/media/software-interface-back.d5d8ec22.wav": "/static/media/software-interface-back.d5d8ec22.wav",
+    "static/media/software-interface-start.5b9ecb19.wav": "/static/media/software-interface-start.5b9ecb19.wav",
+    "static/media/videoTextureSample.0d856e14.mp4": "/static/media/videoTextureSample.0d856e14.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45bd40dc.js",
+    "static/js/2.4313794b.chunk.js",
+    "static/css/main.a4163626.chunk.css",
+    "static/js/main.5bd1bf84.chunk.js"
+  ]
+}
